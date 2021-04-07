@@ -13,5 +13,7 @@ SEAM: a Spatial single nuclEar metAboloMics method for dissecting tissue microen
 
 ``settings`` contains some global settings for the project, e.g. mass imaging size.
 
+``datasets`` contains python functions for data loading.
+
 
 
