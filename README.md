@@ -8,6 +8,6 @@ SEAM: a Spatial single nuclEar metAboloMics method for dissecting tissue microen
 
 This repo provides notebooks for [tutorial and demonstration](SEAM/ipynbs/demostration/), [figure regeneration](SEAM/ipynbs/figure_regeneration/), [method comparison](SEAM/ipynbs/comparison/), and [spatial transcriptome analysis](SEAM/ipynbs/transcriptome/).
 
-**Please cite**: Michael Zhang, Zhiyuan Yuan, Qiming Zhou et al. SEAM: a Spatial single nuclEar metAboloMics method for dissecting tissue microenvironment, 28 August 2020, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-63938/v1]
+**Please cite**: Yuan Z, Zhou Q, Cai L, et al. SEAM is a spatial single nuclear metabolomics method for dissecting tissue microenvironment[J]. Nature Methods, 2021, 18(10): 1223-1232.
 
 
